@@ -4,8 +4,6 @@
 ![ppp](https://user-images.githubusercontent.com/116897569/199971025-50f72d29-d357-45fd-bda2-cf37046fc4c7.jpg)
 
 
-
-
 Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ## Installation
